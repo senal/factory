@@ -1,0 +1,4 @@
+<Solution>
+  <Project Path="documentRuleConsoler/documentRuleConsoler.csproj" />
+  <Project Path="documentRules/documentRules.csproj" />
+</Solution>
